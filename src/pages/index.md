@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Just some bullshit
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: 喜歡摸魚
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
